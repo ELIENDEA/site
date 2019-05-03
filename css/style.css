@@ -1,0 +1,299 @@
+.obligatoire {
+    color: grey;
+}
+
+body{
+  background-color: #FAFAD2;
+    line-height: 1.6;
+}
+nav a {
+  color: black;
+  margin: 60px;
+  font-family: 'MarkOT', sans-serif;
+  font-size: 20px;
+}
+input[type="text"],
+input[type="textarea"],
+input[type="email"]{
+  width: 200px;
+}
+a:hover{
+  color: yellow;
+}
+
+.inLine{
+  display: inline-block;
+}
+.header{
+  padding: 20px 10px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 20px;
+
+}
+.main{
+  background-color: #DC143C;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 20px;
+  position: relative;
+  padding: 20px 10px;
+
+
+
+}
+.main h2{
+  color: #8B0000;
+  font-family: 'MarkOT', sans-serif;
+  font-size: 40px;
+}
+.main h1{
+  color: #8B0000;
+  font-family: 'MarkOT', sans-serif;
+  font-size: 40px;
+}
+
+
+.footer{
+  text-align: justify;
+
+  background: #FFD662;
+  padding: 20px 10px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 20px;
+  height: 80px;
+}
+.pos-image{
+  margin-right: 20px;
+  margin-left: 0;
+}
+.pos-image img{
+  width: 1500px;
+
+}
+
+
+.navigation-bar {
+    height: 80px;
+    background-color: #FFD662;;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding: 20px 20px;
+}
+
+.logo{
+   display: inline-block;
+   vertical-align: top;
+    max-width: 100%;
+}
+
+.social{
+  background-color: #83d8ee;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  margin-right: 50px;
+  margin-left: 50px;
+  position: relative;
+  padding: 20px 0 0;
+  height: 80px;
+
+}
+.social h2{
+  color: #00008B;
+  font-family: 'MarkOT', sans-serif;
+  font-size: 40px;
+}
+
+.about{
+   background-color: #FFD700;
+   padding: 20px;
+   margin-bottom: 10px;
+   margin-right: 50px;
+   margin-left: 50px;
+     margin-top: 30px;
+
+}
+.about img{
+  display: block;
+  padding: 20px 80px;
+  float:left;
+  margin: 10px 0px;
+  height: 500px;
+}
+
+.about h1{
+  color: #FF8C00;
+  font-family: 'MarkOT', sans-serif;
+  font-size: 40px;
+}
+.about-article{
+  background-color: white;
+  width: 400px;
+  height: auto;
+  padding: 40px 35px;
+  float:right;
+  margin: 40px 0px;
+  height: 400px;
+
+}
+.about-article p{
+  font-size: 20px;
+  line-height: 1.75;
+  color: #000;
+  font-family: 'MarkOT', sans-serif;
+  font-weight: normal;
+  letter-spacing: 0.8px;
+  text-align: center;
+}
+
+header h2{
+  color: #E08119;
+  font-family: 'MarkOT', sans-serif;
+}
+
+.find{
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+    margin-top: 30px;
+}
+
+.find h2{
+  color: #FFE4C4;
+  font-family: 'MarkOT', sans-serif;
+  font-size: 40px;
+}
+.footer-liens{
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.footer-liens a{
+  font-family: 'MarkOT', sans-serif;
+  font-size: 20px;
+  color: black;
+
+}
+.footer-contact{
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  display: inline-block;
+    margin-top: 30px;
+
+}
+.footer-legales{
+  padding: 10px;
+  margin: 20px;
+    margin-top: 30px;
+  display: inline-block;
+}
+
+.footer-cookies{
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+.contact{
+  background-color: #FFF8DC;
+  padding: 20px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 30px;
+
+}
+
+.contact h1{
+  color: #FFD662;
+  font-family: 'MarkOT', sans-serif;
+  font-size: 40px;
+}
+
+.recrutement{
+  background-color: #FFF8DC;
+  padding: 20px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+    margin-top: 30px;
+}
+
+.recrutement h1{
+  color: #FFD662;
+  font-family: 'MarkOT', sans-serif;
+  font-size: 40px;
+}
+
+.yummy{
+ background: #FAFAD2;
+ display: inline-block;
+  margin-left: 140px;
+  text-align: justify;
+
+
+}
+.yummy h3{
+    font-family: 'MarkOT', sans-serif;
+    font-size: 30px;
+    text-align: justify;
+
+
+}
+
+.perfecto{
+
+      background: #83d8ee;
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+}
+.perfecto h3{
+  font-family: 'MarkOT', sans-serif;
+  font-size: 30px;
+  text-align: justify;
+
+}
+.dany h3{
+  font-family: 'MarkOT', sans-serif;
+  font-size: 30px;
+  text-align: justify;
+
+
+}
+.dany{
+
+      background: #00BFFF;
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+}
+.ringolis h3{
+  font-family: 'MarkOT', sans-serif;
+  font-size: 30px;
+  text-align: justify;
+
+}
+.ringolis{
+      background: white;
+      display: inline-block;
+        margin-left: 140px;
+
+}
+
+.contact label{
+  font-family: 'MarkOT', sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  text-align: justify;
+
+}
